@@ -30,13 +30,6 @@ The goal of this repo is simple — to connect *theory from research papers* wit
 | Day | Topic | Folder | Status | Focus |
 |-----|--------|---------|--------|--------|
 | 🧠 Day 1 | Introduction to Agents | [/day1_intro_to_agents](day1_intro_to_agents) | ✅ Completed | Learned agent architecture & Think→Act→Observe loop ---
-
-  
-
-**Next Step**
-→ Implement simple **tool-calling agents** (Day 2) and test orchestration using Gemini + LangChain.
-
----
 |
 | ⚙️ Day 2 | Tool Use & Actions | [/day2_tool_use](day2_tool_use) | 🔄 In Progress | Connecting tools to reasoning layer |
 | 🧩 Day 3 | Memory & Reasoning | [/day3_memory_reasoning](day3_memory_reasoning) | ⏳ Upcoming | Implementing memory and context |
