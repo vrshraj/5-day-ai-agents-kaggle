@@ -29,8 +29,7 @@ The goal of this repo is simple — to connect *theory from research papers* wit
 
 | Day | Topic | Folder | Status | Focus |
 |-----|--------|---------|--------|--------|
-| 🧠 Day 1 | Introduction to Agents | [/day1_intro_to_agents](day1_intro_to_agents) | ✅ Completed | Learned agent architecture & Think→Act→Observe loop ---
-|
+| 🧠 Day 1 | Introduction to Agents | [/day1_intro_to_agents](day1_intro_to_agents) | ✅ Completed | Learned agent architecture & Think→Act→Observe loop |
 | ⚙️ Day 2 | Tool Use & Actions | [/day2_tool_use](day2_tool_use) | 🔄 In Progress | Connecting tools to reasoning layer |
 | 🧩 Day 3 | Memory & Reasoning | [/day3_memory_reasoning](day3_memory_reasoning) | ⏳ Upcoming | Implementing memory and context |
 | 🤝 Day 4 | Multi-Agent Systems | [/day4_multi_agents](day4_multi_agents) | ⏳ Upcoming | Agent collaboration and orchestration |
@@ -84,10 +83,10 @@ Each day folder includes:
 
 ### 🌐 **Connect With Me**
 
-💼 [LinkedIn – Varsh Raj](https://www.linkedin.com/in/varsh-raj-b97055385)  
-📊 [Kaggle Profile](https://www.kaggle.com/devvarsh)  
+💼 [LinkedIn – Varsh Raj](https://www.linkedin.com/in/varshraj)  
+📊 [Kaggle Profile](https://www.kaggle.com/yourusername)  
 💻 [GitHub – vrshraj](https://github.com/vrshraj)  
 
 ---
 
-
+> ✨ *“The real beauty of AI isn’t in making machines smarter — it’s in discovering new ways to understand intelligence itself.”*
